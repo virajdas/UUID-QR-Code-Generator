@@ -6,6 +6,7 @@ The first thing to do after downloading the UUIDGen.py file is to install the uu
 
 ```
 pip install uuid
+pip install pillow
 pip install qr code
 ```
 
