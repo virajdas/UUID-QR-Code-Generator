@@ -7,7 +7,7 @@ The first thing to do after downloading the UUIDGen.py file is to install the uu
 ```
 pip install uuid
 pip install pillow
-pip install qr code
+pip install qrcode
 ```
 
 After the installing is completed, you can replace the default names of people under the `names` variable if you wish (for more personal costomization). Once done, you can finally run the program. Exported by the code are qr code images in png format and a signin.txt file with all the names and the generated UUID passwords.
